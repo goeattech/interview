@@ -6,7 +6,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A coding test](#coding-test)
 * [A few technical questions](#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by attached a relevant file ZIP into email named **technical_interview-{yourname}-{role-applied-for}** and send it to **talent@goeat.me**.
+In order to avoid bounced emails we would like you to submit your results by attached a relevant file ZIP into email named **technical_interview-{yourname}-{role-applied-for}** and send it to [talent@goeat.me](mailto:talent@goeat.me).
 
 Please make this a single zip file containing:
 
