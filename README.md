@@ -38,7 +38,7 @@ This task is implement the application as either a command line application or w
 Please answer the following questions in a markdown file called Answers to technical questions.md by Vietnamese or English. 
 
 1. How would you track down a performance issue in production? Have you ever had to do this?
-2. What do you think about how should we do to build a high thoughput system?"
+2. What do you think about how should we do to build a high thoughput system?
 
 #### Thanks for your time, we look forward to hearing from you!
 - The [GoEat Tech team](https://github.com/goeattech)
