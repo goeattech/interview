@@ -32,7 +32,6 @@ This task is implement the application as either a command line application or w
 - Your code should compile and run in one step.
 - Feel free to use whatever frameworks / libraries / packages you like.
 - Please avoid including artifacts from your local build (such as NuGet packages or the bin folder(s)) in your final ZIP file.
-- You can implement 
 
 ## Technical questions
 Please answer the following questions in a markdown file called Answers to technical questions.md by Vietnamese or English. 
