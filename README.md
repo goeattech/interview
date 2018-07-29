@@ -19,7 +19,7 @@ GoEat manages a lot of different dishes with different ingredients and cuisines.
 
 From the parent tag, the user can find all the tagged dishes and its sub tags. I.e. Vietnam tagged Pho and Vietnamese bread, Southeast Asian tagged noodles, Asian tagged rice. The relationship between the above parental structure is from right to left following Asia > Southeast Asia > Vietnam. When the user types Asian, the result is rice, noodles, Vietnamese bread, noodles. Southeast Asia is noodles, bread, pho. And Vietnam is Vietnamese bread, pho. 
 
-The task is implement an application that meets the above requirements.
+This task is implement the application as either a command line application or web application that meets the above requirements.
 
 #### Acceptance criteria
 
@@ -32,6 +32,7 @@ The task is implement an application that meets the above requirements.
 - Your code should compile and run in one step.
 - Feel free to use whatever frameworks / libraries / packages you like.
 - Please avoid including artifacts from your local build (such as NuGet packages or the bin folder(s)) in your final ZIP file.
+- You can implement 
 
 ## Technical questions
 Please answer the following questions in a markdown file called Answers to technical questions.md by Vietnamese or English. 
@@ -41,5 +42,4 @@ Please answer the following questions in a markdown file called Answers to techn
 
 #### Thanks for your time, we look forward to hearing from you!
 - The [GoEat Tech team](https://github.com/goeattech)
-
-Content refer:  [Just Eat requirement test](https://github.com/justeat/JustEat.RecruitmentTest)
+- Content refer:  [Just Eat requirement test](https://github.com/justeat/JustEat.RecruitmentTest)
